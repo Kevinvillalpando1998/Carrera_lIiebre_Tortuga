@@ -1,0 +1,10 @@
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\bin\Debug\Carrera _Liebre_Tortuga.exe.config
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\bin\Debug\Carrera _Liebre_Tortuga.exe
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\bin\Debug\Carrera _Liebre_Tortuga.pdb
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera _Liebre_Tortuga.csprojResolveAssemblyReference.cache
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera__Liebre_Tortuga.Form1.resources
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera__Liebre_Tortuga.Properties.Resources.resources
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera _Liebre_Tortuga.csproj.GenerateResource.cache
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera _Liebre_Tortuga.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera _Liebre_Tortuga.exe
+c:\users\dell\source\repos\Carrera _Liebre_Tortuga\Carrera _Liebre_Tortuga\obj\Debug\Carrera _Liebre_Tortuga.pdb
